@@ -16,4 +16,4 @@
 
 ## 🙂 Yhdistyksen jäsenet <a href="#jasenet" id="jasenet">
 
-* 
+* [Yhdistyksen jäsenedut](jasenet/jasenedut.md)
