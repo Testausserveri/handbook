@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: testausserveri.github.io/handbook
+cname: false
+branding:
+  title: Testausserveri ry 
+  label: Jäsenen käsikirja
+links:
+- text: Testausserverin verkkosivut
+  link: https://testausserveri.fi
+footer:
+  copyright: "&copy; Testausserveri ry {{ year }}. All rights reserved."
