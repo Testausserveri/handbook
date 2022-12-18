@@ -12,7 +12,7 @@
 
 ## ☁ IT (Tietojärjestelmätiimi) <a href="#it" id="it"></a>
 
-* [IT-tiimin placeholder](it/page-2.md)
+* [Teapot-palvelin](it/teapot.md)
 
 ## 🙂 Yhdistyksen jäsenet <a href="#jasenet" id="jasenet">
 

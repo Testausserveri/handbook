@@ -2,8 +2,8 @@
 
 Testausserveri ylläpitää tilejään seuraavissa palveluissa:
 
-* **Instagram**: [https://instagram.com/testausserveri](@testausserveri)
-* **Twitter**: [https://twitter.com/testausserveri](@testausserveri)
+* **Instagram**: [@testausserveri](https://instagram.com/testausserveri)
+* **Twitter**: [@testausserveri](https://twitter.com/testausserveri)
 
 Salasanat ovat tiedossa tietyillä viestintätiimin ja hallituksen jäsenillä tarpeen mukaan.
 
